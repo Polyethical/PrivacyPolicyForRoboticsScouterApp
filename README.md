@@ -1,10 +1,11 @@
 # PrivacyPolicyForRoboticsScouterApp
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - FTC Robotics Scouting/title>
+    <title>Privacy Policy - FTC Team Explorer</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
@@ -100,10 +101,10 @@
         If you have any questions about this Privacy Policy, you may contact:
     </p>
     <p>
-        Email: gracelovestamara1@gmail.com
+        Email: your-email@example.com
     </p>
     <div class="footer">
-        © 2026 FTC Robotics Scouting
+        © 2026 FTC Team Explorer
     </div>
 </div>
 </body>
