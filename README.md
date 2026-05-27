@@ -46,7 +46,7 @@
     <h1>Privacy Policy</h1>
     <p><strong>Effective Date:</strong> January 1, 2026</p>
     <p>
-        FTC Team Explorer ("the app") respects your privacy. This Privacy Policy explains how information is handled when you use the app.
+        FTC Scouter ("the app") respects your privacy. This Privacy Policy explains how information is handled when you use the app.
     </p>
     <h2>1. Information We Collect</h2>
     <p>
@@ -104,7 +104,7 @@
         Email: gracelovestamara1@gmail.com
     </p>
     <div class="footer">
-        © 2026 FTC Team Explorer
+        © 2026 FTC Scouter
     </div>
 </div>
 </body>
